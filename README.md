@@ -11,9 +11,9 @@ A simple command-line calculator built in Python that performs basic arithmetic 
 ## 🛠️ Technologies Used
 - Python 3  
 
-## ▶️ How to Run
+## ⚙️ How to Run
 1. Ensure Python is installed  
 2. Save the file as `calculator.py`  
 3. Run the script:
 ```bash
-python calculator.py
+python Calculator.py
